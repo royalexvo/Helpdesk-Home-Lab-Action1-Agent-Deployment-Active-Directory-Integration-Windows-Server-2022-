@@ -1,4 +1,4 @@
-<h1>Helpdesk Home Lab – Action1 Agent Deployment & Active Directory Integration (Windows Server 2022)<h1>
+<h1>Helpdesk Home Lab – Action1 Agent Deployment & Active Directory Integration (Windows Server 2022)</h1>
 
 <h2>Description</h2>
 
