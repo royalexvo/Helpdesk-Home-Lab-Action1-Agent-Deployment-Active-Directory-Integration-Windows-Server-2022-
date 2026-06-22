@@ -96,8 +96,8 @@ Review deployment settings and verify Active Directory connectivity:<br/>
 </p>
 
 <p align="center">
-<b>Step 9 – Deploy Agents to Additional Endpoints</b><br/><br/>
-Automatically deploy Action1 agents to discovered Active Directory endpoints using the Action1 deployer:
+<b>Step 9 – Ensure Agents are Deployed to Additional Endpoints</b><br/><br/>
+Ensure Action1 agents are deployed to all endpoints using the Action1 deployer. This would have been done automatically from step 7, but to speed it up we will just install the agent manually:
 <img src="https://github.com/royalexvo/Helpdesk-Home-Lab-Action1-Agent-Deployment-Active-Directory-Integration-Windows-Server-2022-/blob/main/9.png?raw=true" height="80%" width="80%" alt="Lab Steps"/>
 </p>
 
