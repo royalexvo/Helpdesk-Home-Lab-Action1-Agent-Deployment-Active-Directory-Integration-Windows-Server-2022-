@@ -2,37 +2,29 @@
 
 <h2>Description</h2>
 
-This lab demonstrates how to deploy Action1 agents throughout an Active Directory environment using automated agent deployment. The goal of this lab is to practice deploying endpoint management software, configuring Active Directory integration, onboarding domain-joined systems, monitoring endpoint health, and performing vulnerability remediation through the Action1 platform.
+This lab demonstrates how to deploy Action1 agents throughout an Active Directory environment using automated agent deployment. The goal of this lab is to practice deploying endpoint management software, configuring Active Directory integration, onboarding domain-joined systems, monitoring endpoint health, identifying missing updates, and performing vulnerability remediation through the Action1 platform.
 
 In this lab, the following tasks were completed:
 
-- <b>Reviewed the Action1 management dashboard</b>
-- <b>Reviewed Action1 reporting capabilities</b>
-- <b>Reviewed Action1 alerting functionality</b>
-- <b>Configured Active Directory agent deployment</b>
-- <b>Downloaded the Action1 deployment package</b>
+- <b>Accessed the Action1 management dashboard</b>
+- <b>Downloaded the Action1 agent deployer package</b>
 - <b>Prepared a Windows Server 2022 domain controller for deployment</b>
 - <b>Modified network adapter settings for internet connectivity</b>
 - <b>Configured bridge adapter networking</b>
 - <b>Connected the domain controller to Action1 cloud services</b>
-- <b>Installed the Action1 agent on a domain controller</b>
+- <b>Installed the Action1 deployer on the domain controller</b>
 - <b>Verified successful endpoint registration</b>
-- <b>Configured automatic Active Directory discovery</b>
-- <b>Configured automated agent deployment settings</b>
-- <b>Reviewed Active Directory deployment configuration options</b>
-- <b>Validated Active Directory connectivity</b>
+- <b>Configured Active Directory discovery</b>
+- <b>Configured automated endpoint deployment settings</b>
+- <b>Validated Active Directory deployment settings</b>
 - <b>Installed Action1 agents on additional endpoints</b>
-- <b>Reviewed endpoint inventory information</b>
+- <b>Reviewed managed endpoint inventory</b>
 - <b>Reviewed endpoint vulnerability information</b>
-- <b>Identified missing security updates</b>
-- <b>Reviewed overdue software updates</b>
-- <b>Deployed updates through Action1</b>
-- <b>Monitored update deployment tasks</b>
-- <b>Reviewed endpoint remediation capabilities</b>
-- <b>Reviewed remote management capabilities</b>
-- <b>Reviewed Action1 scripting and automation features</b>
+- <b>Identified missing Windows updates</b>
+- <b>Deployed software updates through Action1</b>
+- <b>Monitored update deployment progress</b>
 
-This lab demonstrates how organizations automate software deployment, vulnerability remediation, and endpoint management using centralized endpoint management platforms. :contentReference[oaicite:0]{index=0}
+This lab demonstrates how organizations automate software deployment, endpoint onboarding, vulnerability remediation, and patch management through centralized endpoint management platforms.
 
 <h2>Languages and Utilities Used</h2>
 
