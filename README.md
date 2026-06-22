@@ -69,7 +69,7 @@ Navigate to the agent deployment section and download the deployer:<br/>
 
 <p align="center">
 <b>Step 3 – Prepare the Domain Controller</b><br/><br/>
-Move the deployer into the VM environment folder and log in to the Windows Server 2022 domain controller:<br/>
+Move the deployer installer into the VM environment folder and log in to the Windows Server 2022 domain controller:<br/>
 <img src="INSERT_STEP_6_IMAGE_HERE" height="80%" width="80%" alt="Lab Steps"/>
 </p>
 
