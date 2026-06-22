@@ -58,77 +58,77 @@ This lab demonstrates how organizations automate software deployment, vulnerabil
 <p align="center">
 <b>Step 1 – Access the Action1 Dashboard</b><br/><br/>
 Sign in to the Action1 portal and review the current endpoint inventory:<br/>
-<img src="INSERT_STEP_1_IMAGE_HERE" height="80%" width="80%" alt="Lab Steps"/>
+<img src="https://github.com/royalexvo/Helpdesk-Home-Lab-Action1-Agent-Deployment-Active-Directory-Integration-Windows-Server-2022-/blob/main/1.png?raw=true" height="80%" width="80%" alt="Lab Steps"/>
 </p>
 
 <p align="center">
 <b>Step 2 – Download The Agent Deployer from Action1</b><br/><br/>
 Navigate to the agent deployment section and download the deployer:<br/>
-<img src="INSERT_STEP_3_IMAGE_HERE" height="80%" width="80%" alt="Lab Steps"/>
+<img src="https://github.com/royalexvo/Helpdesk-Home-Lab-Action1-Agent-Deployment-Active-Directory-Integration-Windows-Server-2022-/blob/main/2.png?raw=true" height="80%" width="80%" alt="Lab Steps"/>
 </p>
 
 <p align="center">
 <b>Step 3 – Prepare the Domain Controller</b><br/><br/>
 Move the deployer installer into the VM environment folder and log in to the Windows Server 2022 domain controller:<br/>
-<img src="INSERT_STEP_6_IMAGE_HERE" height="80%" width="80%" alt="Lab Steps"/>
+<img src="https://github.com/royalexvo/Helpdesk-Home-Lab-Action1-Agent-Deployment-Active-Directory-Integration-Windows-Server-2022-/blob/main/3.png?raw=true" height="80%" width="80%" alt="Lab Steps"/>
 </p>
 
 <p align="center">
 <b>Step 4 – Configure Internet Connectivity</b><br/><br/>
 Modify network settings to allow communication with Action1 cloud services:<br/>
-<img src="INSERT_STEP_7_IMAGE_HERE" height="80%" width="80%" alt="Lab Steps"/>
+<img src="https://github.com/royalexvo/Helpdesk-Home-Lab-Action1-Agent-Deployment-Active-Directory-Integration-Windows-Server-2022-/blob/main/4.png?raw=true" height="80%" width="80%" alt="Lab Steps"/>
 </p>
 
 <p align="center">
 <b>Step 5 – Launch the Action1 Deployer Installer</b><br/><br/>
 Execute the deployment package and begin the Action1 deployer installation process:<br/>
-<img src="INSERT_STEP_9_IMAGE_HERE" height="80%" width="80%" alt="Lab Steps"/>
+<img src="https://github.com/royalexvo/Helpdesk-Home-Lab-Action1-Agent-Deployment-Active-Directory-Integration-Windows-Server-2022-/blob/main/5.png?raw=true" height="80%" width="80%" alt="Lab Steps"/>
 </p>
 
 <p align="center">
 <b>Step 6 – Verify Endpoint Registration</b><br/><br/>
 Confirm the domain controller successfully registers with the Action1 platform:<br/>
-<img src="INSERT_STEP_11_IMAGE_HERE" height="80%" width="80%" alt="Lab Steps"/>
+<img src="https://github.com/royalexvo/Helpdesk-Home-Lab-Action1-Agent-Deployment-Active-Directory-Integration-Windows-Server-2022-/blob/main/6.png?raw=true" height="80%" width="80%" alt="Lab Steps"/>
 </p>
 
 <p align="center">
 <b>Step 7 – Configure Active Directory Discovery</b><br/><br/>
 Configure Active Directory scanning and automatic endpoint deployment settings:<br/>
-<img src="INSERT_STEP_12_IMAGE_HERE" height="80%" width="80%" alt="Lab Steps"/>
+<img src="https://github.com/royalexvo/Helpdesk-Home-Lab-Action1-Agent-Deployment-Active-Directory-Integration-Windows-Server-2022-/blob/main/7.png?raw=true" height="80%" width="80%" alt="Lab Steps"/>
 </p>
 
 <p align="center">
 <b>Step 8 – Validate Deployment Settings</b><br/><br/>
 Review deployment settings and verify Active Directory connectivity:<br/>
-<img src="INSERT_STEP_13_IMAGE_HERE" height="80%" width="80%" alt="Lab Steps"/>
+<img src="https://github.com/royalexvo/Helpdesk-Home-Lab-Action1-Agent-Deployment-Active-Directory-Integration-Windows-Server-2022-/blob/main/8.png?raw=true" height="80%" width="80%" alt="Lab Steps"/>
 </p>
 
 <p align="center">
 <b>Step 9 – Deploy Agents to Additional Endpoints</b><br/><br/>
 Install Action1 agents on additional domain-joined systems:<br/>
-<img src="INSERT_STEP_14_IMAGE_HERE" height="80%" width="80%" alt="Lab Steps"/>
+<img src="https://github.com/royalexvo/Helpdesk-Home-Lab-Action1-Agent-Deployment-Active-Directory-Integration-Windows-Server-2022-/blob/main/9.png?raw=true" height="80%" width="80%" alt="Lab Steps"/>
 </p>
 
 <p align="center">
 <b>Step 10 – Review Endpoint Inventory</b><br/><br/>
 Verify all managed endpoints appear within the Action1 inventory dashboard:<br/>
-<img src="INSERT_STEP_15_IMAGE_HERE" height="80%" width="80%" alt="Lab Steps"/>
+<img src="https://github.com/royalexvo/Helpdesk-Home-Lab-Action1-Agent-Deployment-Active-Directory-Integration-Windows-Server-2022-/blob/main/10.png?raw=true" height="80%" width="80%" alt="Lab Steps"/>
 </p>
 
 <p align="center">
 <b>Step 11 – Review Vulnerability Information</b><br/><br/>
 Identify missing updates and review endpoint vulnerability status:<br/>
-<img src="INSERT_STEP_16_IMAGE_HERE" height="80%" width="80%" alt="Lab Steps"/>
+<img src="https://github.com/royalexvo/Helpdesk-Home-Lab-Action1-Agent-Deployment-Active-Directory-Integration-Windows-Server-2022-/blob/main/11.png?raw=true" height="80%" width="80%" alt="Lab Steps"/>
 </p>
 
 <p align="center">
 <b>Step 12 – Deploy Software Updates</b><br/><br/>
 Select missing updates and initiate the remediation process:<br/>
-<img src="INSERT_STEP_17_IMAGE_HERE" height="80%" width="80%" alt="Lab Steps"/>
+<img src="https://github.com/royalexvo/Helpdesk-Home-Lab-Action1-Agent-Deployment-Active-Directory-Integration-Windows-Server-2022-/blob/main/12.png?raw=true" height="80%" width="80%" alt="Lab Steps"/>
 </p>
 
 <p align="center">
 <b>Step 13 – Monitor Deployment Progress</b><br/><br/>
 Track update installation progress and remediation task execution untill completion:<br/>
-<img src="INSERT_STEP_18_IMAGE_HERE" height="80%" width="80%" alt="Lab Steps"/>
+<img src="https://github.com/royalexvo/Helpdesk-Home-Lab-Action1-Agent-Deployment-Active-Directory-Integration-Windows-Server-2022-/blob/main/13.png?raw=true" height="80%" width="80%" alt="Lab Steps"/>
 </p>
