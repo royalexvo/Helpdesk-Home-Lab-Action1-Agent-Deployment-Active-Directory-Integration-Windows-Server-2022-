@@ -129,18 +129,6 @@ Select missing updates and initiate the remediation process:<br/>
 
 <p align="center">
 <b>Step 13 – Monitor Deployment Progress</b><br/><br/>
-Track update installation progress and remediation task execution:<br/>
+Track update installation progress and remediation task execution untill completion:<br/>
 <img src="INSERT_STEP_18_IMAGE_HERE" height="80%" width="80%" alt="Lab Steps"/>
-</p>
-
-<p align="center">
-<b>Step 14 – Review Endpoint Management Features</b><br/><br/>
-Explore remote management, scripting, reporting, and automation capabilities:<br/>
-<img src="INSERT_STEP_19_IMAGE_HERE" height="80%" width="80%" alt="Lab Steps"/>
-</p>
-
-<p align="center">
-<b>Step 15 – Validate Endpoint Compliance</b><br/><br/>
-Confirm endpoints are successfully managed and remediation tasks are completed:<br/>
-<img src="INSERT_STEP_20_IMAGE_HERE" height="80%" width="80%" alt="Lab Steps"/>
 </p>
