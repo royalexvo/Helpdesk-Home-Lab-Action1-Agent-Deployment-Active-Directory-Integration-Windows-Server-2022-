@@ -97,7 +97,7 @@ Review deployment settings and verify Active Directory connectivity:<br/>
 
 <p align="center">
 <b>Step 9 – Deploy Agents to Additional Endpoints</b><br/><br/>
-Install Action1 agents on additional domain-joined systems:<br/>
+Automatically deploy Action1 agents to discovered Active Directory endpoints using the Action1 deployer:
 <img src="https://github.com/royalexvo/Helpdesk-Home-Lab-Action1-Agent-Deployment-Active-Directory-Integration-Windows-Server-2022-/blob/main/9.png?raw=true" height="80%" width="80%" alt="Lab Steps"/>
 </p>
 
